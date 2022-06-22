@@ -1,6 +1,6 @@
 const { defineConfig } = require('@vue/cli-service');
 
 module.exports = defineConfig({
-  publicPath: '/5555/',
+  publicPath: '/Vue-callAPI-switchMode-practice/',
   transpileDependencies: true,
 });
