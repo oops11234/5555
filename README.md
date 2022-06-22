@@ -1,11 +1,12 @@
-# task39
+# API與切換模式練習 (VUE-CLI)
 
-## Project setup
+## DEMO(https://oops11234.github.io/Vue-callAPI-switchMode-practice/)
 ```
-npm install
 ```
+### technical point
+```
+Fetch API from open source
 
-### Compiles and hot-reloads for development
 ```
 npm run serve
 ```
